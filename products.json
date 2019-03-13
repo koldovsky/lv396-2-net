@@ -54,6 +54,13 @@
         "image": "iphone-xs.png",
         "description": "Best phone in the World",
         "price": 2000
+    },
+    {
+        "id": "10",
+        "title": "Bugatti Veyron",
+        "image": "bugatti.jpg",
+        "description": "Best sportcar in the World",
+        "price": 99999999
     }
         {
         "id": "11",
