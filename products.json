@@ -75,5 +75,13 @@
         "image": "xiaomi.png",
         "description": "Best phone in the World",
         "price": 2000
+    },
+    {
+        "id": "14",
+        "title": "Toyota Highlander",
+        "image": "toyota-highlander.png",
+        "description": "Better then honda",
+        "price": 12000
     }
+    
 ]
