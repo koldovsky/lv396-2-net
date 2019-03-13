@@ -54,5 +54,12 @@
         "image": "iphone-xs.png",
         "description": "Best phone in the World",
         "price": 2000
+    },
+    {
+        "id": "9",
+        "title": "Honda Accord",
+        "image": "honda.png",
+        "description": "Very comfortable car",
+        "price": 25000
     }
 ]
