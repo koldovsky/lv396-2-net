@@ -54,5 +54,40 @@
         "image": "iphone-xs.png",
         "description": "Best phone in the World",
         "price": 2000
+    },
+    {
+        "id": "9",
+        "title": "Honda Accord",
+        "image": "honda.png",
+        "description": "Very comfortable car",
+        "price": 25000
+    },
+    {
+        "id": "10",
+        "title": "Bugatti Veyron",
+        "image": "bugatti.jpg",
+        "description": "Best sportcar in the World",
+        "price": 99999999
+    },
+    {
+        "id": "11",
+        "title": "Xiaomi MIX 3",
+        "image": "xiaomi.jpg",
+        "description": "Best phone in the World",
+        "price": 2000
+    },
+    {
+        "id": "14",
+        "title": "Toyota Highlander",
+        "image": "toyota-highlander.png",
+        "description": "Better then honda",
+        "price": 12000
+    },
+    {
+        "id": "12",
+        "title": "Subaru Impreza",
+        "image": "subaru-impreza.jpg",
+        "description": "Best car in the World",
+        "price": 22000
     }
 ]
