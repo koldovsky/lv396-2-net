@@ -55,4 +55,11 @@
         "description": "Best phone in the World",
         "price": 2000
     }
+        {
+        "id": "11",
+        "title": "Xiaomi MIX 3",
+        "image": "xiaomi.png",
+        "description": "Best phone in the World",
+        "price": 2000
+    }
 ]
